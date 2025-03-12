@@ -51,9 +51,15 @@ Dentro dos diferente tópicos que iremos abordar durante o curso estão: Operado
       <ul class="schedule-events" style="height: 80px">
         <li class="schedule-event office-hours"
             style="top: 0px; height: 80px;">
-          <div class="name">Turma 01</div>
+          <div class="name">Turma 05</div>
           <div class="time">18:40–20:20</div>
-          <div class="location">A309</div>
+          <div class="location">A303</div>
+        </li>
+        <li class="schedule-event office-hours"
+            style="top: 0px; height: 80px;">
+          <div class="name">Turma 06</div>
+          <div class="time">20:30–22:10</div>
+          <div class="location">A303</div>
         </li>
       </ul>
     </li>
@@ -67,9 +73,15 @@ Dentro dos diferente tópicos que iremos abordar durante o curso estão: Operado
       <ul class="schedule-events" style="height: 80px">
         <li class="schedule-event office-hours"
             style="top: 0px; height: 80px;">
-          <div class="name">Turma 01</div>
+          <div class="name">Turma 05</div>
           <div class="time">18:40–20:20</div>
-          <div class="location">A309</div>
+          <div class="location">A303</div>
+        </li>
+        <li class="schedule-event office-hours"
+            style="top: 0px; height: 80px;">
+          <div class="name">Turma 06</div>
+          <div class="time">20:30–22:10</div>
+          <div class="location">A303</div>
         </li>
       </ul>
     </li>
