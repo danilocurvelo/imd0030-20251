@@ -9,26 +9,26 @@ schedule:
     events:
   - name: Tuesday
     events:
-      - name: Turma 01
+      - name: Turma 05
         start: 6:40 PM
         end: 8:20 PM
-        location: A309
-      - name: Turma 02
+        location: A303
+      - name: Turma 06
         start: 8:30 PM
         end: 22:10 PM
-        location: A307
+        location: A303
   - name: Wednesday
     events:
   - name: Thursday
     events:
-      - name: Turma 01
+      - name: Turma 05
         start: 6:40 PM
         end: 8:20 PM
-        location: A309
-      - name: Turma 02
+        location: A303
+      - name: Turma 06
         start: 8:30 PM
         end: 22:10 PM
-        location: A307
+        location: A303
   - name: Friday
     events:
   - name: Saturday

@@ -37,6 +37,8 @@ Dentro dos diferente tópicos que iremos abordar durante o curso estão: Operado
   <ul class="schedule-timeline" style="min-width: 120px">
     <li class="schedule-time">18:40 </li>
     <li class="schedule-time">19:30 </li>
+    <li class="schedule-time">20:30 </li>
+    <li class="schedule-time">22:10 </li>
   </ul>
   <ul class="schedule-group">
 
