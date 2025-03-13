@@ -56,7 +56,7 @@ Dentro dos diferente tópicos que iremos abordar durante o curso estão: Operado
           <div class="location">A303</div>
         </li>
         <li class="schedule-event happy-hour"
-            style="top: 0px; height: 80px;">
+            style="top: 80px; height: 80px;">
           <div class="name">Turma 06</div>
           <div class="time">20:30–22:10</div>
           <div class="location">A303</div>
@@ -78,7 +78,7 @@ Dentro dos diferente tópicos que iremos abordar durante o curso estão: Operado
           <div class="location">A303</div>
         </li>
         <li class="schedule-event happy-hour"
-            style="top: 0px; height: 80px;">
+            style="top: 80px; height: 80px;">
           <div class="name">Turma 06</div>
           <div class="time">20:30–22:10</div>
           <div class="location">A303</div>
