@@ -12,11 +12,11 @@ schedule:
       - name: Turma 05
         start: 6:40 PM
         end: 8:20 PM
-        location: A303
+        location: A102
       - name: Turma 06
         start: 8:30 PM
         end: 22:10 PM
-        location: A303
+        location: A102
   - name: Wednesday
     events:
   - name: Thursday
@@ -24,11 +24,11 @@ schedule:
       - name: Turma 05
         start: 6:40 PM
         end: 8:20 PM
-        location: A303
+        location: A102
       - name: Turma 06
         start: 8:30 PM
         end: 22:10 PM
-        location: A303
+        location: A102
   - name: Friday
     events:
   - name: Saturday
