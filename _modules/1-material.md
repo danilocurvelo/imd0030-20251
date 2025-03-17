@@ -4,20 +4,24 @@ title: Material
 
 #### Apresentação
 
-24/09
+25/03
 : **Conteúdo**{: .label .label-purple } Apresentação
-  : [Slides](https://docs.google.com/presentation/d/1XUpt4twUsZN9wCybB49jNMNix13uvvFdk2evN1GBFKY/edit?usp=sharing)
+  : [Slides](#)
 
-26/09
+27/03
 : **Conteúdo**{: .label .label-purple } A linguagem C++
-  : [Slides](https://docs.google.com/presentation/d/1hRgL43uYB5mpUJ7qCbCGqcfSubfNIhrMu4e255zBZkU/edit?usp=sharing)
+  : [Slides](#)
 
-08/10
+01/04
+: **Conteúdo**{: .label .label-purple } Ambiente de desenvolvimento
+  : [Slides](#)
+
+03/04
 : **Lab**{: .label .label-yellow } Conhecendo o ambiente
-  : [GitHub Classroom](https://classroom.github.com/a/OBS1bAIz), [Slides](https://docs.google.com/presentation/d/13a9nQdArKWNubZikmQlvTAYv5-VxPfT1WzxFd0WLJ0M/edit?usp=sharing)
+  : [GitHub Classroom](#), [Slides](#)
 
 
-#### Modularização
+<!-- #### Modularização
 
 10/10
 : **Conteúdo**{: .label .label-purple } Modularização
@@ -127,7 +131,7 @@ title: Material
 
 30/01
 : **REPOSIÇÃO**{: .label .label-red } Projeto Reposição
-  : [GitHub Classroom](https://classroom.github.com/a/KQolk4SM)
+  : [GitHub Classroom](https://classroom.github.com/a/KQolk4SM) -->
 
 
 
