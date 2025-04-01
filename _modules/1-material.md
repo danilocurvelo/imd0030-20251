@@ -14,7 +14,7 @@ title: Material
 
 01/04
 : **Conteúdo**{: .label .label-purple } Ambiente de desenvolvimento
-  : [Slides](#)
+  : [GitHub Classroom](https://classroom.github.com/a/XXP2_OiN), [Slides](https://docs.google.com/presentation/d/1hZyD01rh3-4x38rT4VYS_LGsBj00Qk4viGSLplPWBDM/edit?usp=sharing)
 
 03/04
 : **Lab**{: .label .label-yellow } Conhecendo o ambiente
