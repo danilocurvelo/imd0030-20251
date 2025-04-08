@@ -21,15 +21,17 @@ title: Material
   : [GitHub Classroom](https://classroom.github.com/a/pCmX-hNl)
 
 
-<!-- #### Modularização
+#### Modularização
 
-10/10
+08/04
 : **Conteúdo**{: .label .label-purple } Modularização
-  : [Slides](https://docs.google.com/presentation/d/1EN1vEBzqI06duny4fuUanIpY1cSFvmc8yCFMjX_vW1k/edit?usp=sharing)
+  : [Slides](https://docs.google.com/presentation/d/1PpytQhnOpLg9RgF_VOczadh3Nv-aNbgphAUQsRvXQh4/edit?usp=sharing)
 
-15/10
+10/04
 : **Lab**{: .label .label-yellow } Modularização na prática
-  : [GitHub Classroom](https://classroom.github.com/a/bqGORhU-)
+  : [GitHub Classroom](#)
+
+<!-- 
 
 #### Recursão
 
