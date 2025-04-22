@@ -39,7 +39,7 @@ title: Material
 
 22/04
 : **Lab**{: .label .label-yellow } Recursividade na prática
-  : [GitHub Classroom](#)
+  : [GitHub Classroom](https://classroom.github.com/a/vu5voIG0)
 
 <!-- 
 
