@@ -41,33 +41,29 @@ title: Material
 : **Lab**{: .label .label-yellow } Recursividade na prática
   : [GitHub Classroom](https://classroom.github.com/a/vu5voIG0)
 
-<!-- 
-
-24/10
-: **Revisão**{: .label .label-blue } Recursividade na prática
-  : [Slides](#)
-
 
 
 #### Introdução a Orientação a Objetos
 
-29/10
-: **Conteúdo**{: .label .label-purple } Introdução
-  : [Slides](https://docs.google.com/presentation/d/1El8t0GZCqaB-g1jd3AcI4qjDVthWnGA8FZqU2AXJgNw/edit?usp=sharing)
+24/04
+: **Conteúdo**{: .label .label-purple } Introdução a OO
+  : [Slides](#)
 
-31/10
+29/04
 : **Conteúdo**{: .label .label-purple } Construtores e destrutores
-  : [Slides](https://docs.google.com/presentation/d/1_rnXh9etcMgfjI1HCP_BXxyWFoKzpV5AXJuYfJiXxFo/edit?usp=sharing)
+  : [Slides](#)
 
-05/11
+06/05
 : **Lab**{: .label .label-yellow } POO na prática
-  : [GitHub Classroom](https://classroom.github.com/a/BmQ2AAXi)
+  : [GitHub Classroom](#)
 
 #### AVALIAÇÃO
 
-07/11
+08/05
 : **PROVA**{: .label .label-red } 1ª avaliação escrita
   : 50% da Unidade 1 
+
+<!-- 
 
 #### Sobrecarga (_overloading_)
 
