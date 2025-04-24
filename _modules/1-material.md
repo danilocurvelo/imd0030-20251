@@ -47,7 +47,7 @@ title: Material
 
 24/04
 : **Conteúdo**{: .label .label-purple } Introdução a OO
-  : [Slides](#)
+  : [Slides](https://docs.google.com/presentation/d/1ILdlam4enAcY11w-kxBdH61RlbrSeOdHDgGQD3Ep6MU/edit?usp=sharing)
 
 29/04
 : **Conteúdo**{: .label .label-purple } Construtores e destrutores
