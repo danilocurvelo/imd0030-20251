@@ -51,7 +51,7 @@ title: Material
 
 29/04
 : **Conteúdo**{: .label .label-purple } Construtores e destrutores
-  : [Slides](#)
+  : [Slides](https://docs.google.com/presentation/d/1lWNbmj7_Q8KpcFC5HHBLCx_AJJ46bEKSawwQsggimz0/edit?usp=sharing)
 
 06/05
 : **Lab**{: .label .label-yellow } POO na prática
@@ -63,21 +63,22 @@ title: Material
 : **PROVA**{: .label .label-red } 1ª avaliação escrita
   : 50% da Unidade 1 
 
-<!-- 
 
 #### Sobrecarga (_overloading_)
 
 12/11
 : **Conteúdo**{: .label .label-purple } Sobrecarga de funções e passagem por referência
-  : [Slides](https://docs.google.com/presentation/d/1aR3X2HIxYL8sNfMxZEPfqcJB7SQsgoh2mZpJ4LnUB3o/edit?usp=sharing)
+  : [Slides](https://docs.google.com/presentation/d/1XLk4YUiHR-tvuoPucY8lp90rgkfg-LJ8d1n45c5ye-0/edit?usp=sharing)
 
 12/11
 : **Conteúdo**{: .label .label-purple } Sobrecarga de operadores
-  : [Slides](https://docs.google.com/presentation/d/1f3d8SjovlS9MuCwMG_CYIl_1eNPTR7svcM_5fNRflNk/edit?usp=sharing)
+  : [Slides](#)
 
 19/11
 : **Lab**{: .label .label-yellow } Sobrecarga de funções e operadores
-  : [GitHub Classroom](https://classroom.github.com/a/V7IOYkSC)
+  : [GitHub Classroom](#)
+
+<!-- 
 
 #### Programação genérica
 
