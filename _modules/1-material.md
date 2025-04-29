@@ -66,15 +66,15 @@ title: Material
 
 #### Sobrecarga (_overloading_)
 
-12/11
+13/05
 : **Conteúdo**{: .label .label-purple } Sobrecarga de funções e passagem por referência
   : [Slides](https://docs.google.com/presentation/d/1XLk4YUiHR-tvuoPucY8lp90rgkfg-LJ8d1n45c5ye-0/edit?usp=sharing)
 
-12/11
+13/05
 : **Conteúdo**{: .label .label-purple } Sobrecarga de operadores
   : [Slides](#)
 
-19/11
+15/05
 : **Lab**{: .label .label-yellow } Sobrecarga de funções e operadores
   : [GitHub Classroom](#)
 
