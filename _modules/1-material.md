@@ -63,7 +63,6 @@ title: Material
 : **PROVA**{: .label .label-red } 1ª avaliação escrita
   : 50% da Unidade 1 
 
-<!-- 
 
 
 #### Sobrecarga (_overloading_)
@@ -74,13 +73,14 @@ title: Material
 
 13/05
 : **Conteúdo**{: .label .label-purple } Sobrecarga de operadores
-  : [Slides](#)
+  : [Slides](https://docs.google.com/presentation/d/1KQCkVJzztNhtP-FxodlAfxPpiytzy4vIA5PEdfsdiaw/edit?usp=sharing)
 
 15/05
 : **Lab**{: .label .label-yellow } Sobrecarga de funções e operadores
   : [GitHub Classroom](#)
 
 
+<!-- 
 
 #### Programação genérica
 
