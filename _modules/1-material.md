@@ -89,7 +89,7 @@ title: Material
   : [Slides](https://docs.google.com/presentation/d/13tZi66WmY2bOXqSl3HVFhjRKwBkY0xRVdPj0G09eRmA/edit?usp=sharing)
 
 22/05
-: **Lab-Remoto**{: .label .label-yellow } Templates de funções e classes
+: **Lab**{: .label .label-yellow } Templates de funções e classes
   : [GitHub Classroom](#)
 
 <!-- 
