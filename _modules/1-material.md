@@ -88,9 +88,9 @@ title: Material
 : **Conteúdo**{: .label .label-purple } Templates de funções e classes
   : [Slides](https://docs.google.com/presentation/d/13tZi66WmY2bOXqSl3HVFhjRKwBkY0xRVdPj0G09eRmA/edit?usp=sharing)
 
-22/05
+27/05
 : **Lab**{: .label .label-yellow } Templates de funções e classes
-  : [GitHub Classroom](#)
+  : [GitHub Classroom](https://classroom.github.com/a/yY_X5NoI)
 
 <!-- 
 
