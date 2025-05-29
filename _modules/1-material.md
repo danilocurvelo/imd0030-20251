@@ -101,7 +101,7 @@ title: Material
   : [Slides](https://docs.google.com/presentation/d/1QKjOLrV1gpRclHNmPxllNHaRSlDZQxDlKghxACZuiM0/edit?usp=sharing)
 
 03/06
-: **Lab-Remoto**{: .label .label-yellow } Herança
+: **Lab**{: .label .label-yellow } Herança
   : [GitHub Classroom](#)
 
 <!-- 
