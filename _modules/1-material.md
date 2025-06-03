@@ -102,7 +102,7 @@ title: Material
 
 03/06
 : **Lab**{: .label .label-yellow } Herança
-  : [GitHub Classroom](#)
+  : [GitHub Classroom](https://classroom.github.com/a/5E5a1wqQ)
 
 <!-- 
 
