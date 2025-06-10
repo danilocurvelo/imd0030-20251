@@ -104,13 +104,15 @@ title: Material
 : **Lab**{: .label .label-yellow } Herança
   : [GitHub Classroom](https://classroom.github.com/a/5E5a1wqQ)
 
-<!-- 
+
 
 #### Gerenciamento de I/O
 
-10/12
+10/06
 : **Conteúdo**{: .label .label-purple } Manipulação de arquivos
-  : [Slides](https://docs.google.com/presentation/d/1s0HFf2IxjH5-TwTBRwueWtuqU3H2sJlDQUpz6QxpV90/edit?usp=sharing)
+  : [Slides](https://docs.google.com/presentation/d/1TFCwIdRswKJXx-pp9tEOwlDnrzq6GsF9C3Mxc-I52PY/edit?usp=sharing)
+
+<!-- 
 
 #### Tipos Abstratos de Dados
 
