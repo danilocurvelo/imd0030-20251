@@ -112,29 +112,33 @@ title: Material
 : **Conteúdo**{: .label .label-purple } Manipulação de arquivos
   : [Slides](https://docs.google.com/presentation/d/1TFCwIdRswKJXx-pp9tEOwlDnrzq6GsF9C3Mxc-I52PY/edit?usp=sharing)
 
-<!-- 
+
 
 #### Tipos Abstratos de Dados
 
-17/12
+12/06
 : **Conteúdo**{: .label .label-purple } TADs
-  : [Slides](https://docs.google.com/presentation/d/11yDFVkqMgxA4LqN5_1g89tIePQKOg9GjOeCQ44f98Ds/edit?usp=sharing)
+  : [Slides](https://docs.google.com/presentation/d/18PPzTl56_qKaFA02bqg19dMSNAbV9Lp2ks4BEbCUWR4/edit?usp=sharing)
 
-19/12
+12/06
 : **Conteúdo**{: .label .label-purple } Biblioteca STL
-  : [Slides](https://docs.google.com/presentation/d/1qgdSdZ1IeT-RsrAr4-eSmdNVVez084ZA-x8V5BXsmZQ/edit?usp=sharing)
+  : [Slides](https://docs.google.com/presentation/d/160ODfaiHwlzIhwx9l2By-pc_rdd7f3rCnkXYqFg1eAQ/edit?usp=sharing)
+
+<!-- 
 
 #### AVALIAÇÃO
 
 19/12
 : **PROJETO**{: .label .label-red } Projeto Unidade 2
-  : [GitHub Classroom](https://classroom.github.com/a/i8jZEZX0)
+  : [GitHub Classroom](#)
   : 50% da Unidade 2
 
 19/12
 : **PROJETO**{: .label .label-red } Projeto final
   : [GitHub Classroom](https://classroom.github.com/a/TIlrQHKG)
   : 100% da Unidade 3
+
+
 
 #### REPOSIÇÃO
 
