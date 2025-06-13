@@ -119,10 +119,12 @@ title: Material
 12/06
 : **Conteúdo**{: .label .label-purple } TADs
   : [Slides](https://docs.google.com/presentation/d/18PPzTl56_qKaFA02bqg19dMSNAbV9Lp2ks4BEbCUWR4/edit?usp=sharing)
+  : [Vídeo](https://youtu.be/euJGI3bZnvU)
 
 12/06
 : **Conteúdo**{: .label .label-purple } Biblioteca STL
   : [Slides](https://docs.google.com/presentation/d/160ODfaiHwlzIhwx9l2By-pc_rdd7f3rCnkXYqFg1eAQ/edit?usp=sharing)
+  : [Vídeo](https://youtu.be/YyooPPv_9TY)
 
 <!-- 
 
