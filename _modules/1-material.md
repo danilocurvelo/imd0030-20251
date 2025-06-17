@@ -126,6 +126,10 @@ title: Material
   : [Slides](https://docs.google.com/presentation/d/160ODfaiHwlzIhwx9l2By-pc_rdd7f3rCnkXYqFg1eAQ/edit?usp=sharing) 
   : [Vídeo](https://youtu.be/YyooPPv_9TY)
 
+17/06
+: **Lab**{: .label .label-yellow } TADs e STL
+  : [GitHub Classroom](https://classroom.github.com/a/OCm7T2N3)
+
 <!-- 
 
 #### AVALIAÇÃO
