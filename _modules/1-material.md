@@ -130,21 +130,21 @@ title: Material
 : **Lab**{: .label .label-yellow } TADs e STL
   : [GitHub Classroom](https://classroom.github.com/a/OCm7T2N3)
 
-<!-- 
+
 
 #### AVALIAÇÃO
 
-19/12
+15/07
 : **PROJETO**{: .label .label-red } Projeto Unidade 2
-  : [GitHub Classroom](#)
+  : [GitHub Classroom](https://classroom.github.com/a/wOaloQ5c)
   : 50% da Unidade 2
 
-19/12
+15/07
 : **PROJETO**{: .label .label-red } Projeto final
-  : [GitHub Classroom](https://classroom.github.com/a/TIlrQHKG)
+  : [GitHub Classroom](https://classroom.github.com/a/1YprvIR8)
   : 100% da Unidade 3
 
-
+<!-- 
 
 #### REPOSIÇÃO
 
