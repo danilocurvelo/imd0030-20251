@@ -144,13 +144,13 @@ title: Material
   : [GitHub Classroom](https://classroom.github.com/a/1YprvIR8)
   : 100% da Unidade 3
 
-<!-- 
 
 #### REPOSIÇÃO
 
-30/01
+23/07
 : **REPOSIÇÃO**{: .label .label-red } Projeto Reposição
-  : [GitHub Classroom](https://classroom.github.com/a/KQolk4SM) -->
+  : [GitHub Classroom](https://classroom.github.com/a/7M0wlTrz)
+  : até 23/07 23:59
 
 
 
